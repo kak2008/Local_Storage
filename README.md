@@ -5,3 +5,8 @@ This app contains the user personal information screen where user enter his info
 ### Installation
 
 In order to run this app. Download the repository, open it on XCode, build & run.
+
+### Requirements
+
+### License
+
