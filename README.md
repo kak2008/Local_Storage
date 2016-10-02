@@ -8,8 +8,8 @@ In order to run this app. Download the repository, open it on XCode, build & run
 
 ### Requirements
 
-Xcode 7.3
-Objective - C
+* Xcode 7.3
+* Objective - C
 
 ### License
 
